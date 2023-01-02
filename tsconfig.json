@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "public/scripts",
+        "jsx": "react",
+        "target": "ES2015",
+        "module": "ES2015",
+        "moduleResolution": "node"
+    },
+    "files": [
+        "src/index.tsx"
+    ]
+}
